@@ -81,5 +81,7 @@ e-epoch
 | b128-e20  |  93.18  |  94.11  |  93.85  |  93.49  |  93.91  | 93.708  |
 ## 后续改进
 考虑用deepface等人脸识别技术，去除图片人脸的干扰信息，再做匹配
+## check链接
+https://drive.google.com/drive/folders/17FGGzC5UxEIofHSCIjGMhMME94nQWcQj?usp=drive_link
 
 
